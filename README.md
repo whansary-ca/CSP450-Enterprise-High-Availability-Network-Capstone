@@ -89,6 +89,14 @@ Stage 3 turned the infrastructure into a working business system. A client brows
 - Failure testing and service validation
 - Technical documentation and architecture communication
 
+## Portfolio Highlights
+
+- [`docs/PROJECT_SUMMARY.md`](docs/PROJECT_SUMMARY.md) — recruiter-focused overview
+- [`docs/TEST_RESULTS.md`](docs/TEST_RESULTS.md) — validation matrix and failover test sequence
+- [`docs/SECURITY_IMPROVEMENTS.md`](docs/SECURITY_IMPROVEMENTS.md) — production-hardening recommendations
+- [`docs/RESUME_BULLETS.md`](docs/RESUME_BULLETS.md) — resume-ready project bullets
+- [`docs/INTERVIEW_NOTES.md`](docs/INTERVIEW_NOTES.md) — technical interview talking points
+
 ## Repository Documentation
 
 - [`docs/architecture.md`](docs/architecture.md)
