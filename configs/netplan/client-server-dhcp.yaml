@@ -1,0 +1,8 @@
+# CSP450 Stage 4 - Client/Server DHCP Netplan
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    ens33:
+      dhcp4: true
+      dhcp6: false
