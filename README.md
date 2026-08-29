@@ -91,9 +91,19 @@ Stage 3 turned the infrastructure into a working business system. A client brows
 
 ## Repository Documentation
 
+- [`docs/architecture.md`](docs/architecture.md)
 - [`docs/stage-1-2-foundation-connectivity.md`](docs/stage-1-2-foundation-connectivity.md)
 - [`docs/stage-3-application.md`](docs/stage-3-application.md)
 - [`docs/stage-4-high-availability.md`](docs/stage-4-high-availability.md)
 - [`docs/stage-5-validation.md`](docs/stage-5-validation.md)
+- [`docs/troubleshooting-guide.md`](docs/troubleshooting-guide.md)
+- [`docs/validation-checklist.md`](docs/validation-checklist.md)
 
-> Academic lab addresses and topology are retained here because they document the implemented training environment. No production credentials or secrets are included.
+## Configuration Files
+
+- [`configs/aruba/core1-master.cfg`](configs/aruba/core1-master.cfg)
+- [`configs/aruba/core2-backup.cfg`](configs/aruba/core2-backup.cfg)
+- [`configs/aruba/walid-access.cfg`](configs/aruba/walid-access.cfg)
+- [`configs/walid-router-frr.conf`](configs/walid-router-frr.conf)
+- [`configs/router-nftables.conf`](configs/router-nftables.conf)
+- [`configs/netplan/client-server-dhcp.yaml`](configs/netplan/client-server-dhcp.yaml)
